@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Lagrange Points/Lagrange Points.vcxproj" />
+  <Project Path="Lagrange Points/Lagrange Points.vcxproj" Id="94bdd6cb-2dbd-42ba-8d43-00d0b24feacf" />
 </Solution>
